@@ -3,7 +3,7 @@
   
   ## Description
   
-  I have created my first portfolio using react!
+  I have created my portfolio using React!
   
   ## Table of Contents
   
@@ -12,8 +12,8 @@
   3. [Usage](#usage)
   4. [License](#license)
   5. [Contributors](#contributors)
-  6. [Tests](#tests)
-  7. [Questions](#questions)
+  6. [Questions](#questions)
+  7. [Preview](#preview)
   
   
   ## Installation
@@ -31,12 +31,11 @@
   
   [Aaron Hernandez](https://github.com/aaronhdm)
   
-  ## Tests
-  
-  No
-  
   ## Questions
   
   If you have any questions about this application you may email me at aaronhdm@gmail.com.
   Or you may reach out at my GitHub: [Aaron Hernandez](https://github.com/aaronhdm).
   
+  ## Preview
+  
+  ![preview-react-portfolio](https://user-images.githubusercontent.com/107087837/191437085-3a35b794-ef9a-4d57-a714-49eaa0c80e61.png)
