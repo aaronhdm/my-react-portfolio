@@ -1,9 +1,9 @@
 import self from "../img/selfie.jpg"
-import project1 from "../img/selfie.jpg"
-import project2 from "../img/selfie.jpg"
-import project3 from "../img/selfie.jpg"
-import project4 from "../img/selfie.jpg"
-import project5 from "../img/selfie.jpg"
+import project1 from "../img/olympiad-homepage-screenshot.png"
+import project2 from "../img/goat-rodeo-screenshot.png"
+import project3 from "../img/api-weather-app-screenshot.png"
+import project4 from "../img/Have-A-Laugh-screenshot.jpeg"
+import project5 from "../img/note-taker-app-screenshot.png"
 
 export let colors = ["rgb(229,9,20)", "rgb(229,9,20)"];
 
@@ -73,7 +73,7 @@ export const info = {
             emoji: '🥾'
         },
         {
-            label: 'running',
+            label: 'jogging',
             emoji: '👟'
         },
         {
@@ -89,32 +89,32 @@ export const info = {
     portfolio: [
         {
             title: "Project 1",
-            live: "https://",
-            source: "https://github.com/aaronhdm",
+            live: "https://olympiad-game.herokuapp.com/?room=5c1a0",
+            source: "https://github.com/aaronhdm/olympiad-web-game",
             image: project1
         },
         {
             title: "Project 2",
-            live: "https://",
-            source: "https://github.com/aaronhdm",
+            live: "https://courtsandrevival.herokuapp.com/game",
+            source: "https://github.com/aaronhdm/goat-rodeo-shooter-webgame",
             image: project2
         },
         {
             title: "Project 3",
-            live: "https://",
-            source: "https://github.com/aaronhdm",
+            live: "https://aaronhdm.github.io/api-weather-app/",
+            source: "https://github.com/aaronhdm/api-weather-app",
             image: project3
         },
         {
             title: "Project 4",
-            live: "https://",
-            source: "https://github.com/aaronhdm",
+            live: "https://aaronhdm.github.io/Have-A-Laugh/",
+            source: "https://github.com/aaronhdm/Have-A-Laugh",
             image: project4
         },
         {
             title: "Project 5",
-            live: "https://",
-            source: "https://github.com/aaronhdm",
+            live: "https://note-taker-appppp.herokuapp.com/",
+            source: "https://github.com/aaronhdm/note-taker-app",
             image: project5
         }
     ]
